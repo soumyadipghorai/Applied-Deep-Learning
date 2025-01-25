@@ -1,0 +1,6 @@
+text,label
+"I love programming.",positive
+"Python is amazing!",positive
+"I am not a fan of bugs.",negative
+"Debugging is fun.",positive
+"Errors can be frustrating.",negative

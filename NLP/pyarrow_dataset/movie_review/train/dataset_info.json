@@ -1,0 +1,46 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 342,
+  "description": "",
+  "download_checksums": {
+    "D:/vscode/DL_practice/NLP/data/train.csv": {
+      "num_bytes": 178,
+      "checksum": null
+    },
+    "D:/vscode/DL_practice/NLP/data/test.csv": {
+      "num_bytes": 151,
+      "checksum": null
+    }
+  },
+  "download_size": 329,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 671,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 342,
+      "num_examples": 11,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
